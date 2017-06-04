@@ -1,2 +1,2 @@
 # qqtea
-rebuild tea in js
+rebuild tea for js
